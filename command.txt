@@ -1,0 +1,9 @@
+chmod +x *
+
+./install.sh
+
+pip install python-telegram-bot --upgrade
+
+chmod +x *
+
+python3 ftd.py
